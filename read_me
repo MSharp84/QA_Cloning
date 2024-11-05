@@ -1,0 +1,13 @@
+Cloning Repository
+1. git clone <url> command replacing <url> with the URL of the repository to clone
+2.echo "# Hello GitHub" > md
+3. git add .
+4. git commit -m "notes"
+5. git push
+
+touch read_me
+nano read_me
+
+**add notes as above**
+
+repeat add/commit/push steps to push. 
